@@ -8,8 +8,12 @@ My eventual goal is that once we've progressed past the basics: there will be so
 
 These are areas where I've dedicated most of my energy as a programmer, and with a few more people interested in them: hopefully we can do some of this sort of Digital Signal Processing as a club.
 
-Examples from the mathworks website:
+# Examples from the mathworks website:
 
-Image Processing) https://www.mathworks.com/videos/color-based-segmentation-with-live-image-acquisition-68771.html?s_tid=srchtitle
+Image Processing 
 
-Machine Learning) https://www.mathworks.com/videos/image-recognition-using-machine-learning-122900.html?s_tid=srchtitle
+https://www.mathworks.com/videos/color-based-segmentation-with-live-image-acquisition-68771.html?s_tid=srchtitle
+
+Machine Learning
+
+https://www.mathworks.com/videos/image-recognition-using-machine-learning-122900.html?s_tid=srchtitle
